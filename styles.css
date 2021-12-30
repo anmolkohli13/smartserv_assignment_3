@@ -1,0 +1,51 @@
+body {
+	background-color: black;
+}
+.container {
+	background-color: #232322;
+	width: 600px;
+	height: 700px;
+	margin: 0 auto;
+	align-items: center;
+	/* vertical-align: middle; */
+}
+
+.content {
+	background-color: black;
+	margin: 100px 50px;
+	/* align-items: center; */
+}
+.logo-div {
+	margin-top: 50px;
+	/* width: 800px; */
+}
+.logo {
+	height: 300px;
+	width: 600px;
+}
+input {
+	height: 40px;
+	width: 70%;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+	border-radius: 5px;
+	font-weight: bold;
+}
+button {
+	background-color: #71bf59;
+	color: white;
+	font-size: 24px;
+	width: 70%;
+	border-radius: 5px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+.forgot-password {
+	text-decoration: underline;
+	margin-left: 150px;
+	margin-right: 50px;
+	margin-top: 40px;
+	color: grey;
+}
